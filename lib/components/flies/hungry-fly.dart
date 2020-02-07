@@ -1,6 +1,6 @@
 import 'package:flame/sprite.dart';
 import 'dart:ui';
-import 'package:game_test/components/fly.dart';
+import 'package:game_test/components/flies/fly.dart';
 import 'package:game_test/langaw-game.dart';
 
 class HungryFly extends Fly {

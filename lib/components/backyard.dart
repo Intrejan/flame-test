@@ -20,6 +20,7 @@ class Backyard {
   void render(Canvas c) {
     bgSprite.renderRect(c, bgRect);
   }
+
   void update(double t) {
   }
 }
